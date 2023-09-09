@@ -50,6 +50,10 @@ class AboutUsScreen extends StatelessWidget {
                 text: "2- Mohamed Abdelmaboud",
                 color: MyColors.gradient1,
               ),
+              CustomText(
+                text: "3- Nada Ali Sobhy",
+                color: MyColors.gradient1,
+              ),
             ],
           ),
           const Padding(
